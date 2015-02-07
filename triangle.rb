@@ -22,7 +22,7 @@ def triangle(a, b, c)
   else
   return :scalene
 end
-
+end
 # Error class used in part 2.  No need to change this code.
 class TriangleError < StandardError
 end
